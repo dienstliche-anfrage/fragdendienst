@@ -1,6 +1,6 @@
 # Auskunftsgenerator
 
-See http://netzwerkrecherche.github.io/fragdendienst/index.html for the result.
+See http://dienstliche-anfrage.github.io/fragdendienst/index.html for the result.
 
 
 ## License
