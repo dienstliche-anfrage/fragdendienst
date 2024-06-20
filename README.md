@@ -1,7 +1,7 @@
 # Auskunftsgenerator
 
 See http://dienstliche-anfrage.github.io/fragdendienst/index.html for the result.
-
+https://datenschmutz.de/cgi-bin/auskunft
 
 ## License
 
